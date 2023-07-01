@@ -15,10 +15,7 @@ carbon monoxide (CO) and ozone (O3) measured at the monitoring stations in each 
 pollutant is assigned an individual score, and the final AQI is the highest score of those five
 contaminants. Pollutants can be measured quite differently. SO2, NO2 and PM10 are measured
 as a daily average. CO and O3 are more damaging and are measured as an hourly average. The end value of
-AQI is calculated per day and has the interpretation shown in the following table.
-
-
-![Table 1](/images/Health_Implications.jpg)
+AQI is calculated per day 
 
 
 This project consists of the development of a Machine Learning model that is capable of predicting the AQI or the
